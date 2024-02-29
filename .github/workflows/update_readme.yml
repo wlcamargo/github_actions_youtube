@@ -2,8 +2,8 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Every Monday at 10:00 AM Lisbon time
+    - cron: "0 10 * * 1"
   
 
 jobs:
