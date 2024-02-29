@@ -1,4 +1,9 @@
-### 📺 Métricas do canal
+# Update Readme with Github Actions
+
+![Imagemi](./assets/architecture.png)
+
+
+## 📊 Métricas do canal
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 10px;">
@@ -15,7 +20,7 @@
 </div>
 
 
-### 📺 Vídeos Recentes
+## 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok"><img width="140px" src="https://i.ytimg.com/vi/v9Kmz92yHok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok">[Airflow] gerenciado na Google Cloud Platform - [Composer]</a><br/>Feb 23, 2024</td></tr></table>
@@ -28,6 +33,16 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=wvC_fwRetuY"><img width="140px" src="https://i.ytimg.com/vi/wvC_fwRetuY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wvC_fwRetuY">O Exterminador de planilhas - Jogo em Python [pygame]</a><br/>Feb 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
+
+
+## Developer
+
+[Wallace Camargo](https://www.linkedin.com/in/wallace-camargo-35b615171/) 
+
+
+## References
+
+https://github.com/julioarruda
 
 
 
