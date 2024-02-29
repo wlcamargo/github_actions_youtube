@@ -22,7 +22,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok"><img width="140px" src="https://i.ytimg.com/vi/v9Kmz92yHok/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VfeyeXuwu2o"><img width="140px" src="https://i.ytimg.com/vi/VfeyeXuwu2o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VfeyeXuwu2o">Github Action para atualizar Readme do Github - de 1 em 1 hora com as métricas do canal do Youtube</a><br/>Feb 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok"><img width="140px" src="https://i.ytimg.com/vi/v9Kmz92yHok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok">[Airflow] gerenciado na Google Cloud Platform - [Composer]</a><br/>Feb 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CdRMb2L1sMo"><img width="140px" src="https://i.ytimg.com/vi/CdRMb2L1sMo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CdRMb2L1sMo">Processamento Near Real Time - Google Cloud Platform - [Pub/Sub] + [Cloud Function] + [BigQuery]</a><br/>Feb 18, 2024</td></tr></table>
@@ -30,8 +32,6 @@
 <td><a href="https://www.youtube.com/watch?v=S4ZHt1gaFe0">Criar uma Máquina Virtual na Google Cloud Plataform com [Terraform]</a><br/>Feb 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-1oKeXXdIn0"><img width="140px" src="https://i.ytimg.com/vi/-1oKeXXdIn0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-1oKeXXdIn0">Deploy automatizado na GCP com Github Actions - [Artifact Registry &amp; Cloud Run]</a><br/>Feb 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wvC_fwRetuY"><img width="140px" src="https://i.ytimg.com/vi/wvC_fwRetuY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wvC_fwRetuY">O Exterminador de planilhas - Jogo em Python [pygame]</a><br/>Feb 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
