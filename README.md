@@ -23,7 +23,7 @@
 ## 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VfeyeXuwu2o"><img width="140px" src="https://i.ytimg.com/vi/VfeyeXuwu2o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VfeyeXuwu2o">Github Action para atualizar Readme do Github - de 1 em 1 hora com as métricas do canal do Youtube</a><br/>Feb 29, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=VfeyeXuwu2o">Github Actions para atualizar Readme do Github - de 1 em 1 hora com as métricas do canal do Youtube</a><br/>Feb 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok"><img width="140px" src="https://i.ytimg.com/vi/v9Kmz92yHok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v9Kmz92yHok">[Airflow] gerenciado na Google Cloud Platform - [Composer]</a><br/>Feb 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CdRMb2L1sMo"><img width="140px" src="https://i.ytimg.com/vi/CdRMb2L1sMo/mqdefault.jpg"></a></td>
