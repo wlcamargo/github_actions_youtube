@@ -22,7 +22,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HTHG5gu88M4"><img width="140px" src="https://i.ytimg.com/vi/HTHG5gu88M4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SEkmRckjCJk"><img width="140px" src="https://i.ytimg.com/vi/SEkmRckjCJk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SEkmRckjCJk">Simulando execução de um Workflow do Github Actions com ACT</a><br/>Sep 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HTHG5gu88M4"><img width="140px" src="https://i.ytimg.com/vi/HTHG5gu88M4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HTHG5gu88M4">Validando códigos Python com o Sonarqube</a><br/>Sep 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vZNPbaXR8j8"><img width="140px" src="https://i.ytimg.com/vi/vZNPbaXR8j8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vZNPbaXR8j8">Chat GPT Rodando no Docker - De Graça</a><br/>Sep 3, 2024</td></tr></table>
@@ -30,8 +32,6 @@
 <td><a href="https://www.youtube.com/watch?v=WHJmahuQ3Sw">Observabilidade - Log, trace e métricas - OpenTelemetry &lpar;Loki, Tempo, Prometheus e Grafana&rpar;</a><br/>Aug 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=97mi44KE070"><img width="140px" src="https://i.ytimg.com/vi/97mi44KE070/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=97mi44KE070">Evangelizando SQL - Banco de Dados em Container Docker</a><br/>Aug 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UDcW_MpF-TI"><img width="140px" src="https://i.ytimg.com/vi/UDcW_MpF-TI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UDcW_MpF-TI">Pipeline de CI &lpar;Continous Integration&rpar; com o Gitlab &lpar;Local&rpar;</a><br/>Aug 5, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
